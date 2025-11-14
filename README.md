@@ -1,4 +1,4 @@
-# Specialized-Calculator-Based-on-a-Microprogrammed-Mealy-Machine
+# Specialized-Calculator-Based-on-a-Microprogrammed-Mealy-Machine (PROTEUS)
 This repository contains the implementation of a specialized arithmetic calculator built on top of a microprogrammed Mealy-type control unit.
 
 The device processes an array of 8-bit signed (two’s complement) values according to a predefined algorithm and communicates through an 8-bit bidirectional data bus with TTL-compatible control signals.
